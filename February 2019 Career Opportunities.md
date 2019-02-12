@@ -1,4 +1,4 @@
-# Career opportunities are available at the following companies
+# Career opportunities!
 ## US Bank
 Senior Automation Engineer
 https://usbank.taleo.net/careersection/10000/jobdetail.ftl?lang=en&job=180046398
